@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Project Portfolio
 
-You can use the [editor on GitHub](https://github.com/FeranMorgan/FeranMorgan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Data Professional Salary Analysis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An EDA project focused on comparing and contrasting the salaries of data professionals from around the world with particular emphasis on the US.
 
-### Markdown
+The largest factors correlating with salary were the country in which the survey participant worked and their job title. Additionally, data professionals in the US earn between $10,00-$40,000 more compared to the other top 5 responding countries in the survey regardless of experience or education, with no significant differences in salary between those holding a Bachelor's degree compared to a PhD.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Link to files](https://github.com/FeranMorgan/DataProfessionalSalaryAnalysis)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Linear Regression on Portuguese Math Scores
+A project that trains models to predict math student's final test performance using simple and multiple linear regression using factors like daily and weekly alcohol consumption, romantic involvement and internet access.
 
-1. Numbered
-2. List
+Throughout the analysis I discovered that the above and other features had little influence on whether or not the students performed well. The best predictor of student performance on their final exam was found to be prior test performance. During optimization of the linear model, single variable regression gave an R-squared value of 0.7818 and the best combination of features for multiple regression gave an R-squared of 0.7978.
 
-**Bold** and _Italic_ and `Code` text
+[Link to files](https://github.com/FeranMorgan/LinearRegressionPortugalMath)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Tableau visualization for UC Berkeley Majors
+A project focused on detailing the differences in starting salaries for UC Berkeley STEM majors with emphasis on comparing applied/concentrated majors with more generalized/research oriented majors.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FeranMorgan/FeranMorgan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This Tableau story illustrates that the applied STEM majors generally have much higher starting salaries than the other STEM majors at UC Berkeley when measured at the Bachelor's level. The top 5 earners on average were: Electrical Engineering and Computer Science, Data Science, Computer Science, Applied Mathematics, and Statistics.
 
-### Support or Contact
+[Link to files](https://github.com/FeranMorgan/TableauBerkeleyMajors)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### Contact me:
+FeranMorgan@berkeley.edu
+
+www.linkedin.com/in/feranmorgan
