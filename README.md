@@ -29,7 +29,7 @@ This Tableau story illustrates that the applied STEM majors generally have much 
 ## Mastermind Clone (console based)
 Mastermind game supporting randomization for replayability, intelligent player feedback system, and game state checks.
 
-[link to files](https://github.com/FeranMorgan/MastermindClone)
+[Link to files](https://github.com/FeranMorgan/MastermindClone)
 
 ### Contact me:
 FeranMorgan@berkeley.edu
