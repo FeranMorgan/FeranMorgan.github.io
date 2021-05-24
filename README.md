@@ -8,7 +8,7 @@ The largest factors correlating with salary were the country in which the survey
 
 <img src= "https://raw.githubusercontent.com/FeranMorgan/FeranMorgan.github.io/master/SalaryGraph.PNG" />
 
-This graph shows the count of people who responded by grouped by country and their annual salaries.
+This graph shows the count of people who responded grouped by country and their annual salaries.
 
 [Link to files](https://github.com/FeranMorgan/DataProfessionalSalaryAnalysis)
 
