@@ -8,6 +8,8 @@ The largest factors correlating with salary were the country in which the survey
 
 <img src= "https://raw.githubusercontent.com/FeranMorgan/FeranMorgan.github.io/master/SalaryGraph.PNG" />
 
+This graph shows the count of people who responded by grouped by country and their annual salaries.
+
 [Link to files](https://github.com/FeranMorgan/DataProfessionalSalaryAnalysis)
 
 
@@ -18,6 +20,8 @@ A project that trains models to predict math student's final test performance us
 Throughout the analysis I discovered that the above and other features had little influence on whether or not the students performed well. The best predictor of student performance on their final exam was found to be prior test performance. During optimization of the linear model, single variable regression gave an R-squared value of 0.7818 and the best combination of features for multiple regression gave an R-squared of 0.7978.
 
 <img src= "https://raw.githubusercontent.com/FeranMorgan/FeranMorgan.github.io/master/LinearRegressionT1T2.PNG" />
+
+Here we see that the first midterm in blue does not correlate with final test performance as tightly as the second midterm in green.
 
 [Link to files](https://github.com/FeranMorgan/LinearRegressionPortugalMath)
 
