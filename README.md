@@ -6,7 +6,7 @@ An EDA project focused on comparing and contrasting the salaries of data profess
 
 The largest factors correlating with salary were the country in which the survey participant worked and their job title. Additionally, data professionals in the US earn between $10,00-$40,000 more compared to the other top 5 responding countries in the survey regardless of experience or education, with no significant differences in salary between those holding a Bachelor's degree compared to a PhD.
 
-<img src= "https://github.com/FeranMorgan/FeranMorgan.github.io/blob/master/SalaryGraph.PNG" />
+<img src= "https://github.com/FeranMorgan/FeranMorgan.github.io/blob/master/SalaryGraph.png" />
 
 [Link to files](https://github.com/FeranMorgan/DataProfessionalSalaryAnalysis)
 
@@ -17,7 +17,7 @@ A project that trains models to predict math student's final test performance us
 
 Throughout the analysis I discovered that the above and other features had little influence on whether or not the students performed well. The best predictor of student performance on their final exam was found to be prior test performance. During optimization of the linear model, single variable regression gave an R-squared value of 0.7818 and the best combination of features for multiple regression gave an R-squared of 0.7978.
 
-<img src= "https://github.com/FeranMorgan/FeranMorgan.github.io/blob/master/LinearRegressionT1T2.PNG" />
+<img src= "https://github.com/FeranMorgan/FeranMorgan.github.io/blob/master/LinearRegressionT1T2.png" />
 
 [Link to files](https://github.com/FeranMorgan/LinearRegressionPortugalMath)
 
