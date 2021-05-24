@@ -28,6 +28,8 @@ A project focused on detailing the differences in starting salaries for UC Berke
 
 This Tableau story illustrates that the applied STEM majors generally have much higher starting salaries than the other STEM majors at UC Berkeley when measured at the Bachelor's level. The top 5 earners on average were: Electrical Engineering and Computer Science, Data Science, Computer Science, Applied Mathematics, and Statistics.
 
+<img src= "https://raw.githubusercontent.com/FeranMorgan/FeranMorgan.github.io/master/UCBerkeleyMajorsSalary.PNG" />
+
 [Link to files](https://github.com/FeranMorgan/TableauBerkeleyMajors)
 
 ## Mastermind Clone (console based)
