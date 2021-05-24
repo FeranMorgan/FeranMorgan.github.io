@@ -16,6 +16,8 @@ A project that trains models to predict math student's final test performance us
 
 Throughout the analysis I discovered that the above and other features had little influence on whether or not the students performed well. The best predictor of student performance on their final exam was found to be prior test performance. During optimization of the linear model, single variable regression gave an R-squared value of 0.7818 and the best combination of features for multiple regression gave an R-squared of 0.7978.
 
+<img src= "https://github.com/FeranMorgan/FeranMorgan.github.io/blob/master/LinearRegressionT1T2.PNG" />
+
 [Link to files](https://github.com/FeranMorgan/LinearRegressionPortugalMath)
 
 
